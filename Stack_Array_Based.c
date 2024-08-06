@@ -1,5 +1,6 @@
 #include "Stack-Arraybased.h"
-#include "Types.h"
+#include <stdio.h>
+#include <stdlib.h>
 
  void creat_stack(Stack *ps)
  {
